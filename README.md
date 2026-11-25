@@ -24,6 +24,7 @@ přidávají, ty starší zůstávají beze změny.
 | 7 | `lekce07-procvicovani-a-debugging/` | čtení chybových hlášek, debugger ve VS Code |
 | 8 | `lekce08-seznamy-a-n-tice/` | seznamy, metody seznamů, n-tice, rozbalování |
 | 9 | `lekce09-slovniky/` | slovníky, počítání a skupiny, záznamy |
+| 10 | `lekce10-procvicovani/` | seznam seznamů, projekty Kino a Násobilka |
 
 
 Další lekce přibývají v průběhu kurzu.
